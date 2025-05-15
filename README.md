@@ -1,4 +1,4 @@
-# ⚡ ** Cheat for Brawlhalla**
+## ⚡  Cheat for Brawlhalla
 ![Banner](https://github.com/user-attachments/assets/2579f831-9ffa-47f4-be69-d9e6471ed0b4)
 
 ---
